@@ -16,4 +16,4 @@
      + sử dụng Decision Tree:
          - độ chính xác tập train: 1, test: 0.75
          - ý tưởng của thuật toán là biến dữ liệu train thành cây, trong đó ở mỗi nốt là feature của dữ liệu, việc chọn nốt ở mỗi tầng sẽ quyết định vào thuật toán
-           Gini= 1− i=∑(pi)2, Entropy(T) = -\sum_{i=1}^{C} p_i \log_2(p_i)
+           Gini= 1− i=∑(pi)2, Entropy(T) = $$-\sum_{i=1}^{C} p_i \log_2(p_i)$$
